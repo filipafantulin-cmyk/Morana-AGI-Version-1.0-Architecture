@@ -10,4 +10,5 @@ Because sometimes the map is more interesting than the territory.
 Stats:
 
 Modules: 30 (from General Intelligence to Real World Testing)
+
 Training levels: 11 (from Preschool to Meta-Training)
